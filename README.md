@@ -1,4 +1,4 @@
-![gh](./github.io.png)
+[![gh](./github.io.png)](https://slumbone.github.io/)
 
 <!--
 **slumbone/slumbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
