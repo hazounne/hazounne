@@ -1,4 +1,3 @@
-# la croyance m'emmènera
 ![gh](./github.io.png)
 
 <!--
