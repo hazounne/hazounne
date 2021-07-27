@@ -1,7 +1,6 @@
 # la croyance m'emmènera
 ![gh](./github.io.png)
 
-출처: https://zeddios.tistory.com/34 [ZeddiOS]
 <!--
 **slumbone/slumbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
